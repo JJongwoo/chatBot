@@ -31,7 +31,7 @@ gn = {"범죄" : '16',"드라마" : '1', "액션" : '19', "애니메이션" : '1
 genre=""
 # 크롤링 함수 구현하기
 def _crawl_naver_keywords(text):
-    # 여기에 함수를 구현해봅시다.
+    # 여기에 함수를 구현해봅시다.....
     sorting_value = ""
     type = 0
     if '스릴러' in text:
